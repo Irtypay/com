@@ -72,11 +72,14 @@ body {
 .text2 {
 	margin-bottom: 30px;
 	margin-left: 10px;
+	margin:auto;
 }
 
 .text3{ 
    margin-left: 20px;
    margin-bottom: 100px;
+   margin:auto;	
+	
  }
 
 
@@ -96,6 +99,7 @@ body {
 	max-width:70%;
 	margin-top: 50px;
 	margin-left: 255px;
+	margin:auto;
 	align-items: center;
 	position: static;
 	
@@ -103,6 +107,7 @@ body {
 
 .text4 {
 	  margin-left: 20px;
+	margin:auto;
 
 }
 .nado {
